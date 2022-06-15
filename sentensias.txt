@@ -1,0 +1,8 @@
+cd downloads/prueba
+touch nuevo_archivo.txt
+git add .
+git status
+git commit -m "escribir aqui nose para que"
+git config --global user.email "seba_1081@hotmail.com"
+git push -u origin master
+
